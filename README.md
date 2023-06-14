@@ -20,6 +20,6 @@ Follow these steps to run the code:
 
 2. Download the `dataCA` folder. This folder contains the necessary data for our models.
 
-3. Once you have the data, you can execute the `model.ipynb` and `Decision Tree.ipynb` notebooks. These notebooks contain the code that runs our models and generates the corresponding visualizations.
+3. Once you have the data, you can execute notebooks we have in the folder. These notebooks contain the code that runs our models and generates the corresponding visualizations.
 
 Please ensure you have the necessary dependencies installed in your environment to run the Jupyter notebooks.
